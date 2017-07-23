@@ -7,8 +7,6 @@ include 'User.php';
         <title></title>
     </head>
     <body>
-        <?php
-        //echo 'hello';
-        ?>
+        
     </body>
 </html>
